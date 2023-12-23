@@ -1,0 +1,16 @@
+{
+    "name": "com.kaigagi.game-stats.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a9a781143948cd4488e93c9d7b231f1c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
